@@ -1,0 +1,16 @@
+Number of turns: 14
+Turns:
+At point (79, 16) turn Left
+At point (175, 617) turn Right
+At point (177, 618) turn Left
+At point (409, 822) turn Right
+At point (486, 722) turn Left
+At point (487, 822) turn Right
+At point (487, 823) turn Left
+At point (1455, 823) turn Right
+At point (1458, 824) turn Left
+At point (1459, 824) turn Right
+At point (1459, 825) turn Left
+At point (1510, 825) turn Right
+At point (1513, 826) turn Left
+At point (1514, 879) turn Right
